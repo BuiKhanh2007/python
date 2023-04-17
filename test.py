@@ -1,24 +1,15 @@
-import math as Q
-def khanh(n):
-    k=1
-    if n==0:
-        return k
-    elif n<0:
-        raise ValueError('nhap lai di')
-    else:
-        for i in range(1,n+1):
-            k=i*k
-        return k
-while True:
-    try:
-        n=int(input('nhap n: '))
-        khanh(n)
-        d=int(input('nhap d: '))
-        khanh(d)
-        b=int(input('nhap b: '))
-        khanh(b)
-        S=khanh(n)+khanh(d)+khanh(b)
-        print(S)
-        break
-    except Exception as e:
-        print(e)
+def is_prime(num):
+    """Kiểm tra xem một số có phải là số nguyên tố hay không."""
+    if num <= 1:
+        return False
+    for i in range(2, int(num**0.5) + 1):
+        if num % i == 0:
+            return False
+    return True
+
+n = int(input('Nhập n: '))
+primes = []
+for i in range(n):
+    if is_prime(i):
+        primes.append(i)
+print(primes)
