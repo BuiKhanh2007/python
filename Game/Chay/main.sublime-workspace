@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ios",
+				"iostream"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"Ten",
+				"Ten_Truong"
+			],
+			[
+				"te",
+				"TenTruong"
+			],
+			[
+				"T",
+				"Ten_Truong_Var"
+			],
+			[
+				"butto",
+				"button"
+			],
+			[
+				"co",
+				"columnspan"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "import pygame ",
+			"file": "main.py",
+			"file_size": 0,
+			"file_write_time": 133319736352083052,
+			"settings":
+			{
+				"buffer_size": 14,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "impot"
+					},
+					"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAQAAAAAAAAABAAAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "rt"
+					},
+					"AgAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " pyga,e"
+					},
+					"BwAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAwAAAAAAAAADAAAAAAAAAABAAAAZQsAAAAAAAAACwAAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "me"
+					},
+					"AgAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAA0AAAAAAAAADgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/etc/apache2/sites-available/000-default.conf",
+		"/var/www/html/index.html",
+		"/etc/apache2/sites-available/mywebsite.conf",
+		"/home/khanh/Python/100_Bai_Tap_co_ban/b1.py",
+		"/usr/share/doc/apache2/examples/apache2.monit",
+		"/etc/apache2/apache2.conf",
+		"/etc/apache2/conf-available/charset.conf",
+		"/var/log/apache2/other_vhosts_access.log",
+		"/home/khanh/Python/De_Thi_Python/check_file/khanh.py",
+		"/home/khanh/.bashrc",
+		"/home/khanh/Python/exercixe/b10.py",
+		"/home/khanh/Python/De_Thi_Python/Boss/khanh.out",
+		"/home/khanh/Python/De_Thi_Python/Boss/khanh.int",
+		"/home/khanh/Python/De_Thi_Python/Boss/khanh.py",
+		"/home/khanh/Python/exercixe/b1.py",
+		"/home/khanh/Python/exercixe/b2.py",
+		"/home/khanh/Python/exercixe/b3.py",
+		"/home/khanh/Python/exercixe/b4.py",
+		"/home/khanh/Python/exercixe/b5.py",
+		"/home/khanh/Python/exercixe/b6.py",
+		"/home/khanh/Python/De_Thi_Python/Hang_Rao/FENCES.INP",
+		"/home/khanh/Python/De_Thi_Python/Hang_Rao/FENCES.OUT",
+		"/home/khanh/Python/Tool/Vui_Ve/main.py",
+		"/home/khanh/Python/Tool/Vui_Ve/lib",
+		"/home/khanh/Python/Game/keo_bua_bao.py",
+		"/home/khanh/Python/Sap_Xep/data.py",
+		"/home/khanh/Python/Diem_Thi/tool.py",
+		"/home/khanh/Python/Sap_Xep/Test.py",
+		"/home/khanh/Python/Sap_Xep/main.py",
+		"/home/khanh/Share/Sap_Xep/main.py",
+		"/home/khanh/Python/Game/keo_bua_bao",
+		"/home/khanh/Downloads/Cpycompile-1.0.0/libs/python3.lib",
+		"/home/khanh/Downloads/Cpycompile-1.0.0/example/example.py",
+		"/home/khanh/Downloads/Cpycompile-1.0.0/config.py",
+		"/home/khanh/Python/Sap_Xep/Vu_Hieu.csv",
+		"/home/khanh/Python/Diem_Thi/diemthi.txt"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
